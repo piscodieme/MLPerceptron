@@ -1,0 +1,11 @@
+N;Longeur Sépale ;Longeur Pétale;Type De RdN;Type de Fleurs
+1;5,4;1,5;0;Iris-setosa
+2;4,8;1,6;0;Iris-setosa
+3;4,8;1,4;0;Iris-setosa
+4;4,3;1,1;0;Iris-setosa
+5;5,8;1,2;0;Iris-setosa
+6;5;3,5;1;Iris-versicolor
+7;5,9;4,2;1;Iris-versicolor
+8;6;4;1;Iris-versicolor
+9;6,1;4,7;1;Iris-versicolor
+10;5,6;3,6;1;Iris-versicolor

@@ -1,0 +1,100 @@
+html, body{
+    height: 100%;
+}
+
+/* body{
+    background: url(./assets/img/849.jpg) no-repeat;
+    background-size: cover;
+} */
+
+.section {
+    padding-top: 10px;
+}
+
+.input-group > .custom-file {
+    border: 0.7px solid #9333af;
+    border-radius: 5px;
+}
+
+.custom-file-label > .input-group-text {
+    justify-content: left;
+}
+
+.apprendre-btn {
+    margin: 0 5px;
+}
+.badge-title, .badge-noeuds, .badge-noeuds_finaux {
+    justify-content: center;
+    margin-bottom: 10px;
+}
+.badge {
+    padding: 9px 17px;
+    text-transform: uppercase;
+    font-size: 15px;
+    color: #ffffff;
+    margin: 0 5px;
+
+}
+.badge.badge-primary {
+    background-color: white;
+    border: 1px solid #9c27b0;
+    color: #9c27b0;
+    width: 100px;
+}
+
+.badge.badge-info, .badge.badge-success {
+    background-color: #adadad;
+    width: 100px;
+
+}
+.badge.badge-success{
+    background-color: rgb(6, 158, 158);
+    font-size: 18px ;
+}
+/* .section-tabs{
+    background: transparent !important;
+} */
+
+.custom-file-input.selected:lang(en)::after {
+    content: "" !important;
+  }
+
+  .custom-file {
+    overflow: hidden;
+  }
+
+  .custom-file-input {
+    white-space: nowrap;
+  }
+  #customFileInput{
+      margin: 0 5px !important;
+  }
+
+  .alert.alert-success {
+    background-color: rgb(6, 158, 158);
+    color: #fff;
+    width: 640px !important;
+    margin: 20px auto;
+    font-size: 17px;
+}
+.noeuds{
+    background-color: #D9CB9E !important;
+    color: white;
+    font-weight: 700;
+}
+.attendue ,.obtenue{
+    background-color: #c964db !important;
+}
+
+.center{
+    justify-content: center;
+}
+.tester{
+    background: #D9CB9E;
+}
+.hide{
+    visibility: hidden;
+}
+.nom_fl{
+    width: 170px !important;
+}
